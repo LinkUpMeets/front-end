@@ -1,1 +1,3 @@
-# front-end
+# Project-Lynks
+
+Initial files got commited for Lynks

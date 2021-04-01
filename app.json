@@ -1,0 +1,12 @@
+{
+  "name": "lynks",
+  "displayName": "lynks",
+  "expo": {
+    "name": "lynks",
+    "slug": "lynks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
